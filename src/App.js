@@ -5,7 +5,7 @@ import Setup from './example.js';
 export default function App() {
   return (
     <div className="container">
-      <h1> Hello </h1>
+      <h1> Hello world</h1>
       <Setup />
     </div>
   );
